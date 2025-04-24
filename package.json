@@ -1,6 +1,6 @@
 {
-  "name": "rsg",
-  "version": "1.0.0",
+  "name": "rsg-js",
+  "version": "0.0.1-beta",
   "description": "",
   "main": "index.js",
   "types": "index.d.ts",
