@@ -1,0 +1,30 @@
+{
+  "name": "rsg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "generator",
+    "random string",
+    "string generator",
+    "token",
+    "id",
+    "uuid",
+    "password",
+    "typescript",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
+  }
+}
